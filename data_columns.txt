@@ -1,0 +1,40 @@
+
+1. Date
+2. Production Unit I (MWh)
+3. Production Unit II (MWh)
+4. Total HPP
+5. Auxiliaries Consumptions Unit I (MWh)
+6. Auxiliaries Consumptions Unit II (MWh)
+7. Auxiliaries Consumptions Grid (MWh)
+8. Net Production (MWh)
+9. Peak (MW)
+10. Hours of Operation Unit I
+11. Hours of Operation Unit II
+12. Unit I Maintenance Plant
+13. Unit I Maintenance Outside
+14. Unit I Failure Plant
+15. Unit I Failure Outside
+16. Unit II Maintenance Plant
+17. Unit II Maintenance Outside
+18. Unit II Failure Plant
+19. Unit II Failure Outside
+20. Number of Starts Unit I 
+21. Number of Starts Unit II
+22. Comments
+23. Date 
+24. Asomata Reservoir Water Level (m)
+25. Asomata Reservoir Water Content (m3 x 1000)
+26. Regulating lake Water Level (m)
+27 Regulating lake Water Content (m3 x 1000)
+28. Water saved in lake
+29. Catchment water inflow
+30. Production Water Consumption (m3 x 1000)
+31. Specific Consumption 
+32. Turbine Efficiency
+33. HPP Sfikia Water Production (m3  x 1000)
+34. HPP Sfikia Water Pumped upstream (m3  x 1000)
+35. Lake natural inflow (m3  x 1000)
+36. Losses (m3  x 1000)
+37. B
+38. Regulating lake Water flow  (m3/s)
+39. Regulating lake Total Water (m3  x 1000)
